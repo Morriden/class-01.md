@@ -10,4 +10,17 @@
     }
     ```
 
+
     This was exciting, I've always spaced these out and typed way to much!
+
+# Arithmetic Matching
+
+| Purpose | Write in operator |
+|--------------------|---------|
+|Adds one to the current number.||
+|Divides two values and returns the remainder||
+|Subtracts one value from another||
+|Multiples two values using an "Blank"||
+|Adds one value to another||
+|Divides two values||
+|Subtracts one from the current number||
