@@ -14,3 +14,13 @@ try {
     return false;
     }
 }
+```
+
+# Using HTML5 Storage
+
+```js
+interface Storage {
+    getter any getItem(in DOMString);
+    setter creator void setItem(in DOMString key, in any data);
+};
+```
